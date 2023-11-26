@@ -1,5 +1,5 @@
 # openai
-Tinking with OpenAI
+Tinking with OpenAI. These are my personal projects.
 
 ## Slack Integration
 This project integrates Slack and ChatGPT via Flask.
